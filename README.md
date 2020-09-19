@@ -5,8 +5,10 @@ Image has been created with VGA rom and gbe.bin has been added with a random MAC
 
 ./cbfstool t400vga1.rom add-int -i 1000 -n etc/boot-menu-wait has been applied to reduce the waiting time
 
-No secundary payloads present.
+No secondary payloads present
+
 "esc" - to access to menu - working on reboot only
+
 added a simple coreboot bootspash image
 
 
