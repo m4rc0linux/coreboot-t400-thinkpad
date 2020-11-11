@@ -9,7 +9,13 @@ No support to intel wifi and bluetooth
 
 ./cbfstool t400m4rc0.rom add-int -i 1000 -n etc/boot-menu-wait has been already applied to reduce the waiting time
 
-No secondary payloads present
+added flashregion_0_flashdescriptor.bin from libreboot
+
+ich9fdgbe_8m.bin with 00:11:22:33:44:55 mac address
+
+No secondary payloads added
+
+capable to boot any linux, bsd and windows
 
 You can add added a bootspash image (the ones in the repo are already set to be used with coreboot, colours will be fine)
 ./cbfstool t400m4rc0.rom add -f (file).jpg -n bootsplash.jpg -t raw
