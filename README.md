@@ -20,3 +20,4 @@ capable to boot any linux, bsd and windows
 You can add added a bootspash image (the ones in the repo are already set to be used with coreboot, colours will be fine)
 ./cbfstool t400m4rc0.rom add -f (file).jpg -n bootsplash.jpg -t raw
 
+To see how this (or my others built images) works, just have a look into my youtube https://www.youtube.com/user/marcolinoxz
