@@ -1,5 +1,7 @@
 # coreboot-t400-thinkpad
-coreboot rom for thinkpad t400 
+coreboot version 4.13 rom for thinkpad t400 featuring seabios v. 1.14.0 https://seabios.org/Releases#SeaBIOS_1.14.0
+
+commit 5c186c6777c9438ff4681929c9c25c98dee28bef
 
 now it has been compiled to use libgfixnit graphics initialization with resolution 1280x800
 
